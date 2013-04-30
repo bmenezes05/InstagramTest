@@ -18,7 +18,7 @@ Requisitos obrigatórios:
 * Orientado a Objeto (OOP).
 * Não utilizar frameworks prontos.
 
-Requisitos Opcional/Desejável
+Requisitos Opcional
 * Utilizar OOP 100%, utilizar todos os recursos disponiveis. (Interface, SPL, Namespaces e etcs).
 * Teste unitário PHPUnit.
 * Fazer uso de uma das normas PSR. (PSR-0, PSR1 ou PSR2).
@@ -28,7 +28,7 @@ Requisitos Opcional/Desejável
 Permitimos:
 * Uso de classes prontas para geração de thumbnail e resizer.
 
-Lembrando que, para o cadastro e autenticação, é permitido/sugerido o uso do facebook-sdk.
+Lembre-se, você pode criar uma estrutura do zero, sem ou com o composer ;)
 
 Se você ainda não passou pela fase de entrevista, cadastre seu [currículo aqui!](http://www.mktvirtual.com.br/carreira/)
 

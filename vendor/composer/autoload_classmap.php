@@ -9,5 +9,5 @@ return array(
     'BaseFacebook' => $vendorDir . '/facebook/php-sdk/src/base_facebook.php',
     'Facebook' => $vendorDir . '/facebook/php-sdk/src/facebook.php',
     'FacebookApiException' => $vendorDir . '/facebook/php-sdk/src/base_facebook.php',
-    'Mkt' => $baseDir . '/app/classes/Mkt.php',
+    'Mkt' => $baseDir . '/app/samples/Mkt.php',
 );
